@@ -5,7 +5,7 @@ Object {
   "jobs": Object {},
   "name": "Test",
   "on": Object {
-    "workflowDispatch": Object {
+    "workflow_dispatch": Object {
       "inputs": Object {
         "one": Object {
           "default": "foo",
