@@ -51,7 +51,7 @@
     "typescript": "^3.9.5"
   },
   "dependencies": {
-    "@BlackbirdHQ/cdkactions": "^0.2.8",
+    "@BlackbirdHQ/cdkactions": "^0.2.9",
     "constructs": "^3.2.109",
     "fs-extra": "^8.1.0",
     "sscaff": "^1.2.0",
@@ -70,7 +70,7 @@
   },
   "main": "lib/index.js",
   "license": "Apache-2.0",
-  "version": "0.2.8",
+  "version": "0.2.9",
   "jest": {
     "testMatch": [
       "**/__tests__/**/*.ts?(x)",
