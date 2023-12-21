@@ -142,7 +142,7 @@ export interface JobProps {
   /**
    * The type of machine to run on.
    */
-  readonly runsOn: string;
+  readonly runsOn: string | string[];
 
   /**
    * A map of outputs for this job.
